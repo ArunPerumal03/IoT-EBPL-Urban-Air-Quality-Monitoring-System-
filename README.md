@@ -1,4 +1,4 @@
-# IoT-EBPL-Urban-Air-Quality-Monitoring-System-
+# IoT-EBPL-Urban-Air-Quality-Monitoring-System
 # 🌬️ Automated Air Purifier using ESP32, DHT22, and Blynk
 
 ## 📋 Project Overview
